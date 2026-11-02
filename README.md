@@ -1,5 +1,6 @@
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/luizasilva08/luizasilva08/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luizasilva08&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" height="150" alt="Estatísticas do GitHub">
+</div>
   <img src="https://raw.githubusercontent.com/luizasilva08/luizasilva08/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
