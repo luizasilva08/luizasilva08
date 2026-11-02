@@ -1,11 +1,39 @@
-<h2 align="left">𝑶𝒊𝒊, 𝒎𝒆𝒖 𝒏𝒐𝒎𝒆 𝒆́ 𝑳𝒖𝒊́𝒛𝒂 👋</h2>
+<p align="center">
+<img width="100%" alt="1000027292" src="https://github.com/user-attachments/assets/26ccd2f3-1300-457b-af83-3ac8b7c8f39f">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1000&color=699AE1&center=true&vCenter=true&width=1000&height=62&lines=Estudo+no+%F0%9D%91%AA%F0%9D%92%86%F0%9D%92%8F%F0%9D%92%95%F0%9D%92%93%F0%9D%92%90%F0%9D%91%BE%F0%9D%92%86%F0%9D%92%88.;%F0%9D%95%AE%F0%9D%96%8E%F0%9D%96%87%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%98%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%92%F0%9D%96%86%F0%9D%96%98+%F0%9D%96%95%F0%9D%96%86%F0%9D%96%97%F0%9D%96%86+%F0%9D%95%AC%F0%9D%96%9A%F0%9D%96%99%F0%9D%96%94%F0%9D%96%92%F0%9D%96%86%F0%9D%96%88%CC%A7%F0%9D%96%86%CC%83%F0%9D%96%94.;Aprendendo+%F0%9D%93%9F%F0%9D%94%82%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%B8%F0%9D%93%B7+no+momento.)](https://git.io/typing-svg)
+<p align="center">
+  <img width="150" height="20" alt="1000027292" src="https://github.com/user-attachments/assets/ebabee6f-7cb0-4584-a55c-a2d2c8e995c2" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kranky&size=24&pause=1000&color=1E3AC0&center=true&vCenter=true&width=435&lines=Oii%2C+meu+nome+%C3%A9+Lu%C3%ADza!;Fa%C3%A7o+CentroWEG+no+momento.;Curso%3A+Automa%C3%A7%C3%A3o+e+Conectividade." alt="Typing SVG">
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="63" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/luizasilva08/luizasilva08/stats-output/stats.svg" height="150" alt="Estatísticas do GitHub">
 </div>
 
-###
+<br>
 
-<h1 align="center">⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ 𝄞♪♬🎧♬♪𝄞 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹</h1>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="54" alt="Arduino">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="54" alt="C++">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="54" alt="Python">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="54" alt="VS Code">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="54" alt="MySQL">
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizasilva08/luizasilva08/snake-output/snake.svg" alt="Animação da cobrinha">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" alt="Rodapé"><img width="150" height="20" alt="1000027292" src="https://github.com/user-attachments/assets/472a9369-81e9-4feb-9879-757b494a7478" />
