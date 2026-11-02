@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" alt="1000027292" src="https://github.com/user-attachments/assets/26ccd2f3-1300-457b-af83-3ac8b7c8f39f">
+<img width="100%" alt="1000027292" src="https://github.com/user-attachments/assets/234b7a8e-408d-4f81-8a7c-9129bee44659">
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/luizasilva08/luizasilva08/stats-output/stats.svg" height="150" alt="Estatísticas do GitHub">
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/luizasilva08/luizasilva08/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 <br>
@@ -32,8 +32,8 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/luizasilva08/luizasilva08/snake-output/snake.svg" alt="Animação da cobrinha">
-</p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/luizasilva08/luizasilva08/snake-output/snake.svg" alt="Snake animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" alt="Rodapé"><img width="150" height="20" alt="1000027292" src="https://github.com/user-attachments/assets/472a9369-81e9-4feb-9879-757b494a7478" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" alt="Rodapé">
+
+
